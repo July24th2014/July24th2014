@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @July24th2014
+- 👋 Hi, I’m J
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
