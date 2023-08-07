@@ -1,4 +1,4 @@
-- 👋 Hi, I’m J
+- 👋 Hi, I’m Ju1y
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me: @
