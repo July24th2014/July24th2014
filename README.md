@@ -1,5 +1,16 @@
-- 👋 Hi, I’m Jack
-- 👀 I’m interested in data analyst
+👋 Hi, I’m Jack
+
+Experienced Data Analyst with a focus on Python, SQL, and data visualization. Seeking opportunities to leverage analytical skills in driving data-driven insights for business growth.
+
+Skills
+ 
+•	SQL (MySQL)
+•	Python (Pandas, NumPy, MatPlotLib)
+•	Data Visualization (Tableau)
+•	MATLAB
+•	Excel (VLookup, Conditional Formatting, Pivot Tables)
+•	SEO Strategies
+
 - 📫 How to reach me: jacktt0202@gmail.com
 
 <!---
