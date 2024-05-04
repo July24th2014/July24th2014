@@ -10,7 +10,6 @@ Skills
 •	Data Visualization (Tableau)
 •	MATLAB
 •	Excel (VLookup, Conditional Formatting, Pivot Tables)
-•	SEO Strategies
 
 - 📫 How to reach me: jacktt0202@gmail.com
 
