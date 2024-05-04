@@ -5,11 +5,11 @@ Experienced Data Analyst with a focus on Python, SQL, and data visualization. Se
 
 Skills
  
-•	SQL (MySQL)
-•	Python (Pandas, NumPy, MatPlotLib)
-•	Data Visualization (Tableau)
-•	MATLAB
-•	Excel (VLookup, Conditional Formatting, Pivot Tables)
+-	SQL (MySQL)
+-	Python (Pandas, NumPy, MatPlotLib)
+-	Data Visualization (Tableau)
+-	MATLAB
+-	Excel (VLookup, Conditional Formatting, Pivot Tables)
 
 - 📫 How to reach me: jacktt0202@gmail.com
 
