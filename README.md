@@ -1,3 +1,4 @@
+# Data Analyst Personal Portfolio Project 
 👋 Hi, I’m Jack
 
 Experienced Data Analyst with a focus on Python, SQL, and data visualization. Seeking opportunities to leverage analytical skills in driving data-driven insights for business growth.
