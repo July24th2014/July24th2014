@@ -11,7 +11,7 @@ Skills
 -	MATLAB
 -	Excel (VLookup, Conditional Formatting, Pivot Tables)
 
-- 📫 How to reach me: jacktt0202@gmail.com
+📫 How to reach me: jacktt0202@gmail.com
 
 <!---
 July24th2014/July24th2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
