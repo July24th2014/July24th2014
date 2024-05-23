@@ -7,8 +7,7 @@ Skills
  
 -	SQL (MySQL)
 -	Python (Pandas, NumPy, MatPlotLib)
--	Data Visualization (Tableau)
--	MATLAB
+-	Data Visualization (Tableau, PowerBi)
 -	Excel (VLookup, Conditional Formatting, Pivot Tables)
 
 📫 How to reach me: jacktt0202@gmail.com
